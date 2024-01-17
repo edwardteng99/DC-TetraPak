@@ -1,0 +1,19 @@
+Enrique : Report catalogue
+-check if the missing title in cards
+-missing notification, spart part inventory write up etc. old wiki gone
+Discuss with Danilo and reported this issues to him.
+
+Foglight Kickoff with Tupac, Khushboo and Ankita
+Need set categorization for all the different alarms.
+
+GAP Sheeter requirement TEE-OEE testing completed
+Waiting for P2 to release on 18th Nov, then can deploy our SSIS, SP packages
+Vancouver sheeter walkthrough training with users - part1 done, part2 later
+
+P2- new way of transfer file GAP
+Ankita had completed 80% of development with David's help. Waiting for P2 to standardize the json format.
+
+**BO 4.3 upgrade issues + follow up.
+Fixed long running report issue with SAP/DXC
+Implemented the Index and tested QA. It is working fine.
+Deployed to BO Production. Users verified that it is good.
